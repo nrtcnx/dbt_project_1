@@ -40,4 +40,4 @@ models:
     
 seeds:
   dbt_project_1:
-  schema: seed_input
+  schema: seed
